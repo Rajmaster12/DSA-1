@@ -1,3 +1,5 @@
+//Find the string is a paladrome or not// 
+
 #include <stdio.h>
 #include <string.h>
 
