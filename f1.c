@@ -1,4 +1,6 @@
- #include<stdio.h>
+// Make a Funtion to sum any two integer values// 
+
+#include<stdio.h>
  int sum(int x,int y); /*Function declaration*/
  int main( )
  {
