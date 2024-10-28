@@ -1,3 +1,7 @@
+// Find the seconf largest elements in the given array//
+
+
+
 #include <stdio.h>
 
 int main() {
