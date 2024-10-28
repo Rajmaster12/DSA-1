@@ -10,20 +10,12 @@ int main() {
             printf("a is greatest");
         else
             printf("b is greatest");
-
-
         }
         else{
             if (num2>num3)
-                printf("b is gresatest");
-
-            
+                printf("b is gresatest");            
             else
                 printf("c is greatest");
-            
-
-        }
-        
-    
+        } 
 return 0;
 }
