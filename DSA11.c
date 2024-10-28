@@ -1,3 +1,4 @@
+// find greatest among three integer number//
 #include <stdio.h>
 
 int main() {
